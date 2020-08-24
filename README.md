@@ -2,4 +2,4 @@
 **Infin** is an open-source Discord bot written in Python that is designed around modularity and flexibility.  
 Infin is designed to be self-hosted; there isn't really one global Infin instance.  
 You can invite your instance of Infin to your server, and configure it to your needs.  
-Installation details are available in the wiki.
+Installation details will be available in the wiki.
